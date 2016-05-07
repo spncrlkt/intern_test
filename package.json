@@ -1,0 +1,25 @@
+{
+  "name": "intern_test",
+  "version": "0.0.1",
+  "description": "intern test",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spncrlkt/intern_test.git"
+  },
+  "keywords": [
+    "intern",
+    "test"
+  ],
+  "author": "spncrlkt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spncrlkt/intern_test/issues"
+  },
+  "homepage": "https://github.com/spncrlkt/intern_test#readme"
+}
