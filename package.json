@@ -4,9 +4,11 @@
   "description": "intern test",
   "main": "index.js",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "intern": "^3.2.0"
+  },
   "scripts": {
-    "test": "test"
+    "test": "node_modules/.bin/intern-client config=tests/intern"
   },
   "repository": {
     "type": "git",
